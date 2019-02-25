@@ -1,2 +1,10 @@
 /* CSS styles */
-
+  p {
+  border: 3px;
+  padding: 5px;
+  }
+div{background-color: pink;}
+h1{font-size: 20pt; color: yellow;}
+p.intro {font-size: 30pt;
+color: red;}
+img{height: 150px;}
